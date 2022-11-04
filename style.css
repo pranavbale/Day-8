@@ -1,0 +1,55 @@
+* {
+    padding: 2px;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+}
+
+.continer {
+    background-color: rgb(227, 227, 227);
+    width: 40%;
+    margin: 10px;
+}
+
+.border {
+    border: 5px solid black;
+    padding: 5px;
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.heading {
+    background-color: red;
+}
+
+.data {
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.lineOne {
+    display: flex;
+}
+
+.sub {
+    display: grid;
+}
+
+.name {
+    display: grid;
+    width: 100%;
+}
+
+.box {
+    display: inline;
+}
